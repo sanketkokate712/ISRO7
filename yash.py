@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import rasterio
 import pandas as pd
-import matplotlib.pyplot as plt
+import cv2
 from PIL import Image
 
 st.set_page_config(page_title="Lunar Boulder + Landslide Detector", layout="wide")
